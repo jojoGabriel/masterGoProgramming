@@ -1,2 +1,2 @@
 # masterGoProgramming
-Master Go Programming - Udemy Course
+Master Go (Golang) Programming: Complete Golang Bootcamp (by Andrei Dumitrescu via Udemy)
